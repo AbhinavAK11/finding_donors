@@ -1,4 +1,4 @@
-# finding_donors
+# Finding_Donors_Machine_Learning
 
 Problem Statement:
 
